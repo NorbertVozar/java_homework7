@@ -24,7 +24,7 @@ public class Main {
 
 		System.out.println(physics);
 
-		System.out.println(english);
+		System.out.println(slovak);
 	}
 
 }
